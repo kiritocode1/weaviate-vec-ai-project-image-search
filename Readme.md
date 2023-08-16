@@ -20,8 +20,9 @@ this project assumes that you already know about and have installed  docker and 
 2. run ```npm i``` 
 3. run ``` docker-compose up -d``` 
 4. the project assumes you know a little bit of programming , change the image location to your liking and then check the results image for the most resembling image from the folder . 
- ![](assets/ss1.png)
 5. then run ```node app.js``` 
+
+![](assets/ss1.png)
 
 
 
