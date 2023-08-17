@@ -1,6 +1,6 @@
 
 
-
+![image](assets/ss2.png)
 ## Weaviate client vector db project . 
 this is a simple project based to [weaviate's](https://weaviate.io) vector database feature . 
 
@@ -22,7 +22,7 @@ this project assumes that you already know about and have installed  docker and 
 4. the project assumes you know a little bit of programming , change the image location to your liking and then check the results image for the most resembling image from the folder . 
 5. then run ```node app.js``` 
 
-![](assets/ss1.png)
+![image](assets/ss1.png)
 
 
 

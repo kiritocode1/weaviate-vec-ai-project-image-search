@@ -52,7 +52,7 @@ const client = weaviate.client({
 
 
 
-const test = Buffer.from( readFileSync('./img/img11.png') ).toString('base64');
+const test = Buffer.from( readFileSync('./img/img5.png') ).toString('base64');
 
 const resImage = await client.graphql.get()
   .withClassName('Meme')
